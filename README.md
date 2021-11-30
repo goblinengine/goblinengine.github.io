@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Goblin Engine
 
-You can use the [editor on GitHub](https://github.com/goblinengine/goblinengine.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align="center">
+  <a href="https://goblinengine.github.io">
+    <img src="https://github.com/goblinengine/goblin/raw/main/logo_outlined.svg" width="400" alt="Goblin Engine logo">
+  </a>
+</p>
+<h3 align="center">
+  <a href="https://github.com/goblinengine/goblin">https://github.com/goblinengine/goblin</a>
+</h3>
 
-### Markdown
+## Description
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Goblin Engine](https://goblinengine.github.io) is a custom build of [Godot Engine](https://godotengine.org) created for educational and personal use. It provides additional functionality not officially supported. Please have a look at list of [Goblin Changes](https://github.com/goblinengine/goblin/blob/main/CHANGELOG.md) to find out more.
 
-```markdown
-Syntax highlighted code block
+## Builds
 
-# Header 1
-## Header 2
-### Header 3
+Note that at this time Goblin has no official releases since is very new. You would need to compile it from scratch yourself for now or you can download test builds. 
 
-- Bulleted
-- List
+You can downloada test builds from the github repo. Read the main repo [Readme](https://github.com/goblinengine/goblin/blob/main/README.md) for more details. 
 
-1. Numbered
-2. List
+## Documentation and demos
 
-**Bold** and _Italic_ and `Code` text
+Since Goblin Engine is compatible with latest 3.x Godot branch, you can find most the documentation you need over at [Godot Docs](https://docs.godotengine.org/en/stable/). 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/goblinengine/goblinengine.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The class reference is also accessible from the Goblin editor. Goblin adds some new functionality which is only documented in the built in Class references.
