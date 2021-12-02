@@ -1,8 +1,5 @@
-## Goblin Engine
-
-
 <p align="center">
-  <a href="https://goblinengine.github.io">
+  <a href="https://github.com/goblinengine/goblin">
     <img src="https://github.com/goblinengine/goblin/raw/main/logo_outlined.svg" width="400" alt="Goblin Engine logo">
   </a>
 </p>
@@ -12,13 +9,14 @@
 
 ## Description
 
-[Goblin Engine](https://goblinengine.github.io) is a custom build of [Godot Engine](https://godotengine.org) created for educational and personal use. It provides additional functionality not officially supported. Please have a look at list of [Goblin Changes](https://github.com/goblinengine/goblin/blob/main/CHANGELOG.md) to find out more.
+[Goblin Engine](https://github.com/goblinengine/goblin) is a custom build of [Godot Engine](https://godotengine.org) created for educational and personal use. It provides additional functionality not officially supported. Please have a look at list of [Goblin Changes](https://github.com/goblinengine/goblin/blob/main/CHANGELOG.md) to find out more.
 
 ## Builds
 
-Note that at this time Goblin has no official releases since is very new. You would need to compile it from scratch yourself for now or you can download test builds. 
+Note that at this time Goblin has no official releases since is very new. 
 
-You can downloada test builds from the github repo. Read the main repo [Readme](https://github.com/goblinengine/goblin/blob/main/README.md) for more details. 
+You would need to either compile it yourself or you can download [Goblin test builds](https://github.com/goblinengine/goblin/actions) from the official Goblin repo. 
+
 
 ## Documentation and demos
 
