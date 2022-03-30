@@ -17,6 +17,9 @@ Note that at this time Goblin has no official releases since is very new.
 
 You would need to either compile it yourself or you can download [Goblin test builds](https://github.com/goblinengine/goblin/actions) from the official Goblin repo. 
 
+## Community
+
+Discord server: https://discord.gg/erpDN9yUxN
 
 ## Documentation and demos
 
