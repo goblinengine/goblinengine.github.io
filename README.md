@@ -19,7 +19,7 @@ You would need to either compile it yourself or you can download [Goblin test bu
 
 ## Community
 
-Discord server: https://discord.gg/erpDN9yUxN
+Discord server: [https://discord.gg/erpDN9yUxN](https://discord.gg/erpDN9yUxN)
 
 ## Documentation and demos
 
